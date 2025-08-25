@@ -17,5 +17,5 @@ This project is structured to work on multiple platforms but excludes platform-s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/rakumanakasu/mobile_application_dara.git
 cd yourrepo
